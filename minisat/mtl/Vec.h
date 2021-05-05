@@ -22,6 +22,7 @@ OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWA
 #define Minisat_Vec_h
 
 #include <assert.h>
+#include <limits>
 #include <new>
 #include <type_traits>
 #include <algorithm>
